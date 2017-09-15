@@ -170,25 +170,14 @@ input.ds-authority-lock.is-unlocked
 
 /* Item hover do menu dropdown (topo) */
 .navbar-inverse .navbar-nav > .active > a {
-	/* background-color: #2e7a8a; */
 }
 
 .navbar-inverse .navbar-nav > li > a {
     color: #fff;
 }
 
-
-/* .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
-   background-color: #2e7a8a;
-} */
-
-/* .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
-    background-color: #2e7a8a;
-} */
-
 /* Item hover do submenu */
 .dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus,  .dropdown-menu > .active > a:hover {
-    background-color: #2e7a8a;
     background-repeat: repeat-x;
 }
 
@@ -236,8 +225,8 @@ input.ds-authority-lock.is-unlocked
 }
 
 .btn-info:hover, .btn-info:focus, .btn-info:active, .btn-info.active, .open .dropdown-toggle.btn-info {
-    background-color: #2e7a8a;
-    border-color: #2e7a8a;
+    background-color: #2e437a;
+    border-color: #2e437a;
 }
 
 /** Ícone do sistema junto a barra de navegação. **/
@@ -289,14 +278,14 @@ input.ds-authority-lock.is-unlocked
 /** Cor do botão de busca (normal) **/
 .navbar-form  button, .search-button {
 	background-image: none;
-	background-color: #2e7a8a;
+	background-color:#2e437a;
         border: none;
 	color:#fff!important;
 	border-radius:10px;
 }
 
 .search-button:hover {
-  background-color: #35879c!important;
+  background-color: #364f8f!important;
 }
 
 .addongreen .form-control
@@ -481,11 +470,11 @@ code {
 
 /** Aplicabilidade nas tabelas **/
 .table > tbody > tr:nth-child(2n+1) > td {
-	background-color: #a3c3cb;
+	background-color: #b0c4de;
 	border:none!important;
 }
 .table > tbody > tr:nth-child(2n+1) > th {
-	background-color: #a3c3cb;
+	background-color: #b0c4de;
 	border:none!important;
 }
 
