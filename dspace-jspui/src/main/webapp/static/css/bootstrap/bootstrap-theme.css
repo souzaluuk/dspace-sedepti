@@ -49,14 +49,14 @@
 }
 
 .btn-primary {
-  background-color:#2e7a8a!important;
-  border-color:#2e7a8a;
+  background-color:#b65825!important;
+  border-color:#b65825;
 }
 
 .btn-primary:active,
 .btn-primary.active {
-  background-color: #35879c;
-  border-color: #2e7a8a;
+  background-color: #ca622b;
+  border-color: #b65825;
 }
 
 .btn-success {
@@ -133,7 +133,7 @@
 }
 
 .navbar {
-  background:#35879c;
+  background:#ca622b;
   color:#fff !important;
 }
 
@@ -227,8 +227,8 @@
   background-image: linear-gradient(to bottom, #428bca 0%, #3071a9 100%);
   background-repeat: repeat-x;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff428bca', endColorstr='#ff3071a9', GradientType=0); */
-  border-color:#2e7a8a;
-  background-color:#35879c!important;
+  border-color:#b65825;
+  background-color:#ca622b!important;
 }
 
 .progress-bar-success {
@@ -285,8 +285,8 @@
   background-repeat: repeat-x;
   border-color: #3278b3;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff428bca', endColorstr='#ff3278b3', GradientType=0); */
-  border-color:#2e7a8a;
-  background-color:#2e7a8a !important;
+  border-color:#b65825;
+  background-color:#b65825 !important;
 }
 
 .panel {
@@ -311,8 +311,8 @@
   background-image: linear-gradient(to bottom, #428bca 0%, #357ebd 100%);
   background-repeat: repeat-x;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff428bca', endColorstr='#ff357ebd', GradientType=0);*/
-  border-color:#2e7a8a;
-  background-color:#35879c!important;
+  border-color:#b65825;
+  background-color:#ca622b!important;
   
 }
 
