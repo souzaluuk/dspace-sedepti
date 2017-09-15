@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/AlanChristian/DSpace/!svn/ver/7789/branches/dspace-5_x/dspace/modules/jspui/src/main/webapp/static/js/chartjs-1-0-1-beta2
+END
+bower.json
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/AlanChristian/DSpace/!svn/ver/7789/branches/dspace-5_x/dspace/modules/jspui/src/main/webapp/static/js/chartjs-1-0-1-beta2/bower.json
+END
+Chart.js
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/AlanChristian/DSpace/!svn/ver/7789/branches/dspace-5_x/dspace/modules/jspui/src/main/webapp/static/js/chartjs-1-0-1-beta2/Chart.js
+END
+Chart.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/AlanChristian/DSpace/!svn/ver/7789/branches/dspace-5_x/dspace/modules/jspui/src/main/webapp/static/js/chartjs-1-0-1-beta2/Chart.min.js
+END
+gulpfile.js
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/AlanChristian/DSpace/!svn/ver/7789/branches/dspace-5_x/dspace/modules/jspui/src/main/webapp/static/js/chartjs-1-0-1-beta2/gulpfile.js
+END
+package.json
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/AlanChristian/DSpace/!svn/ver/7789/branches/dspace-5_x/dspace/modules/jspui/src/main/webapp/static/js/chartjs-1-0-1-beta2/package.json
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/AlanChristian/DSpace/!svn/ver/7789/branches/dspace-5_x/dspace/modules/jspui/src/main/webapp/static/js/chartjs-1-0-1-beta2/.gitignore
+END
