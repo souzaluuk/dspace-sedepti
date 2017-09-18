@@ -1812,6 +1812,16 @@ pre code {
     margin-left: 0%;
   }
 }
+
+@media(max-width:424px) {
+	.col-md-4 {
+		width: 40.33333333%;
+	}
+	.col-md-5 {
+		width: 47.66666667%;
+	}
+}
+
 @media (min-width: 425px) {
   .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
     float: left;
@@ -1852,7 +1862,7 @@ pre code {
 /* Caixa de texto: This is a default installation of DSpace!
 It can be extensively configured by installing modified JSPs, and altering the site configuration.*/
   .col-md-4 {
-    width: 33.33333333%;
+    width: 30.33333333%;
   }
   .col-md-3 {
     width: 25%;
@@ -2949,7 +2959,7 @@ fieldset[disabled] .btn-default.active {
 }
 .btn-primary {
   color: #ffffff; /*Hundson*/
-  border-color: #2e7a8a;
+  border-color: #35879c !important;
 }
 
 /* Cor de alguns botões como por exemplo, os da página de busca */
@@ -2982,8 +2992,8 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-  background-color: #2e7a8a;
-  border-color: #0079a1;
+  background-color: #35879c!important;
+  border-color: #35879c!important;
   margin-right:5px;
 }
 .btn-primary .badge {
@@ -4866,7 +4876,7 @@ a.thumbnail.active {
 .alert-warning {
   background-color: #CFCFCF;
   border-color: #CFCFCF;
-  color: #ffffff;
+  color: #1c1c1c !important;
 }
 .alert-warning hr {
   border-top-color: #b67102;
